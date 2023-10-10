@@ -30,7 +30,7 @@ Certifique-se de ter o Node.js e o npm (ou yarn) instalados em seu sistema. Em s
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd financas
+    cd projeto_Finace_ReactNative
     
 3. Instale as dependências:
     ```bash
